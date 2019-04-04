@@ -14,7 +14,7 @@ The purpose of this project is to create the connection between different depart
 ![BPMN](http://i.imgur.com/ELWxpMa.png)
 
 ## How to run
-1. copy git repo to your local machine using a git client of your choice (https://github.com/mathck/wmpm.git)
+1. copy git repo to your local machine using a git client of your choice (https://github.com/maland89/wmpm.git)
 2. where the pom.xml file is located run "mvn clean install" ([install maven](https://maven.apache.org/install.html))
 3. open project with any Java IDE of your choice (IntelliJ, Eclipse, ...)
 4. define the run configuration: Java Application, main class: SmartCarApp
